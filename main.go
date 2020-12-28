@@ -34,6 +34,11 @@ func main() {
 		log.Fatal("Error creating unsorted directory")
 	}
 	utilsgo.PrintSuccess("created unsorted directory")
+	//stripping last / char
+	if string(folder[len(folder)-1]) == "/" {
+		folder = string(folder[0 : len(folder)-1])
+	}
+	fmt.Println(folder)
 	file.SortFiles(folder)
 }
 

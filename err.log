@@ -94,3 +94,5 @@
 {"level":"ERROR","ts":"2020-12-28T12:48:02.060+0530","caller":"file/file.go:58","msg":"Error reading image dimention: /home/siraj/Pictures/socialmob posts/Squared/when india travel/whenindiantravel_126885759_868683947207487_801218113838184195_n.jpgimage: unknown format"}
 {"level":"ERROR","ts":"2020-12-28T12:48:02.060+0530","caller":"file/file.go:88","msg":"Error reading image dimensions: image: unknown format"}
 {"level":"ERROR","ts":"2020-12-28T12:48:02.060+0530","caller":"file/file.go:58","msg":"Error reading image dimention: /home/siraj/Pictures/socialmob posts/Squared/when india travel/whenindiantravel_126899873_1832056423614639_8794361752743712397_n.jpgimage: unknown format"}
+{"level":"ERROR","ts":"2020-12-28T12:56:21.046+0530","caller":"file/file.go:53","msg":"lstat /home/siraj/Pictures/socialmob posts/Squared/when india trave: no such file or directory"}
+{"level":"ERROR","ts":"2020-12-28T12:56:34.169+0530","caller":"file/file.go:53","msg":"lstat /home/siraj/Pictures/socialmob posts/Squared/when india trave: no such file or directory"}
