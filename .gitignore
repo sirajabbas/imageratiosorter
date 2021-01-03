@@ -1,3 +1,4 @@
 imagesorter
 go.sum
 unsorded/*
+.idea/*
